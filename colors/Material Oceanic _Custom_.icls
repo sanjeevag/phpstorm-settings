@@ -4,13 +4,13 @@
     <property name="created">2020-01-13T12:02:39</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2021-07-20T12:39:12</property>
+    <property name="modified">2021-07-20T15:02:13</property>
     <property name="originalScheme">_@user_Material Oceanic</property>
     <property name="rainbow PHP">false</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
   <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="B612 Mono" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="14" />
